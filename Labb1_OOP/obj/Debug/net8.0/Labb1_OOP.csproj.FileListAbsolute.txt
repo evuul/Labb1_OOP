@@ -1,0 +1,14 @@
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/bin/Debug/net8.0/Labb1_OOP
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/bin/Debug/net8.0/Labb1_OOP.deps.json
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/bin/Debug/net8.0/Labb1_OOP.runtimeconfig.json
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/bin/Debug/net8.0/Labb1_OOP.dll
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/bin/Debug/net8.0/Labb1_OOP.pdb
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/obj/Debug/net8.0/Labb1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/obj/Debug/net8.0/Labb1_OOP.AssemblyInfoInputs.cache
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/obj/Debug/net8.0/Labb1_OOP.AssemblyInfo.cs
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/obj/Debug/net8.0/Labb1_OOP.csproj.CoreCompileInputs.cache
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/obj/Debug/net8.0/Labb1_OOP.dll
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/obj/Debug/net8.0/refint/Labb1_OOP.dll
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/obj/Debug/net8.0/Labb1_OOP.pdb
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/obj/Debug/net8.0/Labb1_OOP.genruntimeconfig.cache
+/Users/alexanderek/RiderProjects/Labb1_OOP/Labb1_OOP/obj/Debug/net8.0/ref/Labb1_OOP.dll
